@@ -22,4 +22,4 @@ tinymce.init({
 
 Non-minified version included with some comments. Edit this to alter the Ace Editor options and save to plugin.min.js.
 
-I have inclued a version that works with the fantastic [JS Beautifier](https://github.com/beautify-web/js-beautify), just use ace_beautify instead.
+I have included a version that works with the fantastic [JS Beautifier](https://github.com/beautify-web/js-beautify), just use ace_beautify instead.
