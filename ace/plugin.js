@@ -18,7 +18,7 @@ tinymce.PluginManager.add("ace", function(a) {
 		
         a.windowManager.open({
             title: "Code Editor",
-			type: "floatpanel",
+			type: "container",
 			id: "mce-ace-editor",
 			name: "ace",
 			width: t,
