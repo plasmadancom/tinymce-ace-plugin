@@ -1,4 +1,4 @@
-# TinyMCE-Ace-Editor-Plugin
+# TinyMCE Ace Editor Plugin
 Ace Editor plugin for TinyMCE 4.0
 
 How to use:
